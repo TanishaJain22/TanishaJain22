@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Tanisha Jain[cite: 1]
 
-<!--
-**TanishaJain22/TanishaJain22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate | AI & GenAI Enthusiast**[cite: 1]
 
-Here are some ideas to get you started:
+I am a passionate CS student and AI developer who loves turning complex data into impactful solutions. I have hands-on experience building applications using Machine Learning, RAG, and LLMs, and I'm always excited to learn new technologies and grow my skills![cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** My AI Summer Internship at Mirai School of Technology[cite: 1], and developing **PulseNet**, an AI healthcare triage platform.
+- 🌱 **I’m currently learning:** **LangGraph** for building multi-agent AI workflows, and expanding my knowledge of cloud fundamentals!
+- 👯 **I’m looking to collaborate on:** Fun AI/ML projects, RAG pipelines, and open-source Python applications[cite: 1].
+- 💬 **Ask me about:** Python, LangChain, FAISS, Streamlit, and Prompt Engineering[cite: 1].
+- 📫 **How to reach me:** tanishaj1120@gmail.com | [LinkedIn](https://linkedin.com/in/tanisha-jain01)[cite: 1]
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I built a GenAI platform (ArchFlow) that cut manual system design time by ~85%[cite: 1]! Outside of tech, I love journaling and traveling to try new local food.
